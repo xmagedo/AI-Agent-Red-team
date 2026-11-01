@@ -1,0 +1,2 @@
+# aicomp_sdk 3.1.2 is installed from the local competition wheel/folder (requires Python >= 3.11)
+pytest>=7.0.0
