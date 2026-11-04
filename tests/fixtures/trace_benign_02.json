@@ -1,0 +1,203 @@
+{
+  "seed": 2,
+  "user_messages": [
+    "search howto",
+    "open welcome"
+  ],
+  "assistant_messages": [],
+  "tool_events": [
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "howto"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "welcome"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    }
+  ],
+  "egress": []
+}

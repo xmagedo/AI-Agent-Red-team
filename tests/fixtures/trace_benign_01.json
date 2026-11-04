@@ -1,0 +1,203 @@
+{
+  "seed": 1,
+  "user_messages": [
+    "search demo",
+    "open demo"
+  ],
+  "assistant_messages": [],
+  "tool_events": [
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.search",
+      "args": {
+        "query": "demo"
+      },
+      "ok": true,
+      "output": "{\"results\": [{\"id\": \"page_0\", \"title\": \"Welcome\"}, {\"id\": \"page_20\", \"title\": \"Student Project Help\"}, {\"id\": \"page_22\", \"title\": \"Code Example\"}, {\"id\": \"page_6\", \"title\": \"File Management Guide\"}, {\"id\": \"page_7\", \"title\": \"Data Export Tutorial\"}]}",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": null
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    },
+    {
+      "name": "web.open",
+      "args": {
+        "id": "demo"
+      },
+      "ok": false,
+      "output": "",
+      "side_effect": "NETWORK",
+      "scope": "public",
+      "source": "web",
+      "error": "not_found"
+    }
+  ],
+  "egress": []
+}
