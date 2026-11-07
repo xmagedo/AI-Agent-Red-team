@@ -5,3 +5,4 @@ __pycache__/
 *.whl
 data/
 *.pdf
+.DS_Store
